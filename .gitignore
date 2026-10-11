@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+.env.*
+*.sqlite3
+*.db
+*.csv
+*.cbm
+*.tar.gz
+playwright-report/
+test-results/

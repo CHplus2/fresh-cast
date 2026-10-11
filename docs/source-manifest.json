@@ -1,0 +1,336 @@
+{
+  "repository": "https://github.com/CHplus2/preorder-freshness",
+  "commit": "4be1e8468b870f880f8478fd26e5d1edfe5c1261",
+  "files": [
+    {
+      "source": "frontend/src/features/predictive/DecisionAssistant.jsx",
+      "destination": "src/features/predictive/DecisionAssistant.jsx",
+      "source_sha256": "df18e06f374e7fb48ac388bc56e5f69c9470691915d6ce691edd794bff65313d"
+    },
+    {
+      "source": "frontend/src/features/predictive/PantryScene.jsx",
+      "destination": "src/features/predictive/PantryScene.jsx",
+      "source_sha256": "6779fba141bb88bcdc673a98f8c64a4655632b2a2c76376000ddcd2693c374e4"
+    },
+    {
+      "source": "frontend/src/features/predictive/PredictiveDashboard.jsx",
+      "destination": "src/features/predictive/PredictiveDashboard.jsx",
+      "source_sha256": "9913d4df10fa517508d3b2890a9e56b32501207dc422a9fee1785f8341f9331b"
+    },
+    {
+      "source": "frontend/src/features/predictive/ProblemEvidence.jsx",
+      "destination": "src/features/predictive/ProblemEvidence.jsx",
+      "source_sha256": "bcafc8052c637ef3727056867b00303b438c66236c737af1214059ab3490b628"
+    },
+    {
+      "source": "frontend/src/features/predictive/api.js",
+      "destination": "src/features/predictive/api.js",
+      "source_sha256": "134c149f4a115e5950f56bd404a422bafac978d882efe9c896ede11bdf34da74"
+    },
+    {
+      "source": "frontend/src/features/predictive/api.test.js",
+      "destination": "src/features/predictive/api.test.js",
+      "source_sha256": "a5bb08979db5dd0ab4ed5632cf748ada5b280be1304add4a0f70eb2ed4757f12"
+    },
+    {
+      "source": "frontend/src/features/predictive/decisionMath.js",
+      "destination": "src/features/predictive/decisionMath.js",
+      "source_sha256": "6e7abfed9cd3046e65958d2cb93f33e22216d91c32e66a1cb09e2730a053f90a"
+    },
+    {
+      "source": "frontend/src/features/predictive/decisionMath.test.js",
+      "destination": "src/features/predictive/decisionMath.test.js",
+      "source_sha256": "84429e8c7d28afa9414b91e06aaf21bd12326a91779948c1cee3bfbda320f02a"
+    },
+    {
+      "source": "frontend/src/features/predictive/mockData.js",
+      "destination": "src/features/predictive/mockData.js",
+      "source_sha256": "63abac1d5b47d2eecb10d6898274d7bcd90cc5bbaff5c0f9663c61947a95d712"
+    },
+    {
+      "source": "frontend/src/features/predictive/pantry.css",
+      "destination": "src/features/predictive/pantry.css",
+      "source_sha256": "a37bdb421bfde9a62ef79f635ff779504e72e39a31728b456cf2b7bb6c52201b"
+    },
+    {
+      "source": "frontend/src/features/predictive/predictive.css",
+      "destination": "src/features/predictive/predictive.css",
+      "source_sha256": "4cc414a89fc19a3c643d7be17dfb2029d62a000023773513ed59c987a112e5bf"
+    },
+    {
+      "source": "frontend/src/features/predictive/problemSummary.js",
+      "destination": "src/features/predictive/problemSummary.js",
+      "source_sha256": "c38233abba7df61168bd79af5211e2f6a811a0f1eaacc3254a93329209432b60"
+    },
+    {
+      "source": "frontend/src/features/predictive/RestaurantStations.jsx",
+      "destination": "src/features/predictive/RestaurantStations.jsx",
+      "source_sha256": "0a90cb323788d60bf3f71fd26f9e856ef12f4aa669a20b7685a80a34748f7d40"
+    },
+    {
+      "source": "frontend/src/features/predictive/ActionComparison.jsx",
+      "destination": "src/features/predictive/ActionComparison.jsx",
+      "source_sha256": "e6a69aacfdd7b371acc6bc39e4fb0142abab249a640dbbe1802dd931df7b985f"
+    },
+    {
+      "source": "frontend/src/features/predictive/decisionBrief.test.js",
+      "destination": "src/features/predictive/decisionBrief.test.js",
+      "source_sha256": "5e2105a2fe1aacca7253e9e723d1940d396366a8080cbabb7155baa48d6ce15d"
+    },
+    {
+      "source": "frontend/src/features/predictive/rescueOutcome.js",
+      "destination": "src/features/predictive/rescueOutcome.js",
+      "source_sha256": "699e5a90b1afb048b06e4ac77125fb42b1d4e0d4a62eacbe3959ef9d19379205"
+    },
+    {
+      "source": "frontend/src/features/predictive/replayEvidence.js",
+      "destination": "src/features/predictive/replayEvidence.js",
+      "source_sha256": "28a9e84c964953f95dc7418edd68a5f7182e876062e50dfd7132c3213d601e7e"
+    },
+    {
+      "source": "frontend/src/features/predictive/riskTradeoff.test.js",
+      "destination": "src/features/predictive/riskTradeoff.test.js",
+      "source_sha256": "e2559b5241634b0b7b0c6f48c9284662ba180cff9b4ffd48235296c818af5387"
+    },
+    {
+      "source": "frontend/src/features/predictive/restaurantStations.css",
+      "destination": "src/features/predictive/restaurantStations.css",
+      "source_sha256": "ede41f3fdbb40b71347957e44b48807d0d113e7e4f22e56a0f8e05a8549a512b"
+    },
+    {
+      "source": "frontend/src/features/predictive/rescueOutcome.test.js",
+      "destination": "src/features/predictive/rescueOutcome.test.js",
+      "source_sha256": "2bb05eb1486b600c8157d3554aafb6a47ac9afaa8566046f409ccf18ac92e512"
+    },
+    {
+      "source": "frontend/src/features/predictive/actionComparison.css",
+      "destination": "src/features/predictive/actionComparison.css",
+      "source_sha256": "fc1e0cab99736d8feaebeef9566b44c12d671f36619c813ef6d7cfbb9797628a"
+    },
+    {
+      "source": "frontend/src/features/predictive/rescueDemo.css",
+      "destination": "src/features/predictive/rescueDemo.css",
+      "source_sha256": "8d0196de2de3d9d0bac054192a14cb13d75bd7e6654e5a80f8341caab3c62a71"
+    },
+    {
+      "source": "frontend/src/features/predictive/KitchenWalkthrough.jsx",
+      "destination": "src/features/predictive/KitchenWalkthrough.jsx",
+      "source_sha256": "201e02709e6441c3c696697ede58764aab85f4af70d2baa1c9ebd7777f74f823"
+    },
+    {
+      "source": "frontend/src/features/predictive/LocalKitchen.jsx",
+      "destination": "src/features/predictive/LocalKitchen.jsx",
+      "source_sha256": "688a6863ddc491bb662172a93c8c49be3bbdd1ace7bbb78facc7bd5a6eab9471"
+    },
+    {
+      "source": "frontend/src/features/predictive/riskLens.js",
+      "destination": "src/features/predictive/riskLens.js",
+      "source_sha256": "b14122a97184e4aaca1245f6443e1f266e23756b2433d2afbff60b5fe23e0454"
+    },
+    {
+      "source": "frontend/src/features/predictive/RescueDemo.jsx",
+      "destination": "src/features/predictive/RescueDemo.jsx",
+      "source_sha256": "1300790d2ba1c770dbc25b5111bdceee7d2999453824fe6a800262a8158b0184"
+    },
+    {
+      "source": "frontend/src/features/predictive/RiskLens.jsx",
+      "destination": "src/features/predictive/RiskLens.jsx",
+      "source_sha256": "981944cee503bc6268dbc8ff975584fcfffb77d83de41ff06477339932f596f3"
+    },
+    {
+      "source": "frontend/src/features/predictive/localKitchen.css",
+      "destination": "src/features/predictive/localKitchen.css",
+      "source_sha256": "1b6a2784e7ccb8c1dfa571f3bde535fc70224e4b62a98fc9e434268925dcf07d"
+    },
+    {
+      "source": "frontend/src/features/predictive/ServingScene.jsx",
+      "destination": "src/features/predictive/ServingScene.jsx",
+      "source_sha256": "5cecc70a0af98ab0ef14845fb2369317ee4db8ab7f7e5c4818a934b43a4ba835"
+    },
+    {
+      "source": "frontend/src/features/predictive/ForecastReplay.jsx",
+      "destination": "src/features/predictive/ForecastReplay.jsx",
+      "source_sha256": "7815c86d2636ea3375f0700eb512ac868dd178dc3afe0dc4ec50482ae656b8f2"
+    },
+    {
+      "source": "frontend/src/features/predictive/RiskMap.jsx",
+      "destination": "src/features/predictive/RiskMap.jsx",
+      "source_sha256": "7b6f871b9e787dbc47a11539f403b0c404e30e67ddc4fac4b817a6e6345d7074"
+    },
+    {
+      "source": "frontend/src/features/predictive/forecastReplay.css",
+      "destination": "src/features/predictive/forecastReplay.css",
+      "source_sha256": "3261c014ab91e79f5b7ee6bf635319d44e2e20092e07b8bc6c47fc8ee004d86a"
+    },
+    {
+      "source": "frontend/src/features/predictive/RescueReceipt.jsx",
+      "destination": "src/features/predictive/RescueReceipt.jsx",
+      "source_sha256": "dfca6e49ef6d6a7dae30438eb04be8e4643a361ff0a641e159d6c20213e895ba"
+    },
+    {
+      "source": "frontend/src/features/predictive/planningFridge.css",
+      "destination": "src/features/predictive/planningFridge.css",
+      "source_sha256": "fdbe8923d3c0f4aff9279d530b5bbcf247c2e5b00fe29485574c3f89c7f4fab7"
+    },
+    {
+      "source": "frontend/src/features/predictive/VerificationChecklist.jsx",
+      "destination": "src/features/predictive/VerificationChecklist.jsx",
+      "source_sha256": "7207b8ea93fa579a4fc53e8a05eefc05e129a174a5a85be62fddbbeb23c231aa"
+    },
+    {
+      "source": "frontend/src/features/predictive/decisionBrief.js",
+      "destination": "src/features/predictive/decisionBrief.js",
+      "source_sha256": "86a5f40a129ed949438c0dcd1d42864db8a9bc3907bdac66007c370ddfba9121"
+    },
+    {
+      "source": "frontend/src/features/predictive/riskLens.test.js",
+      "destination": "src/features/predictive/riskLens.test.js",
+      "source_sha256": "37f2a0b80974ddbbc7a7b15516b9bce322cdb02725864caef781f9ad059b3bfa"
+    },
+    {
+      "source": "frontend/src/features/predictive/RescueMenu.jsx",
+      "destination": "src/features/predictive/RescueMenu.jsx",
+      "source_sha256": "b18d744b9e1d80a705b8ea86d7724c2d11461b81f5e29b0ad4d8e39242bda8de"
+    },
+    {
+      "source": "frontend/src/features/predictive/riskTradeoff.js",
+      "destination": "src/features/predictive/riskTradeoff.js",
+      "source_sha256": "c0ed0debb9327fed8f361811c4062818e3eb31f8a1ea4e07eb28c9a86c78303a"
+    },
+    {
+      "source": "frontend/src/features/predictive/StockNeedInspection.jsx",
+      "destination": "src/features/predictive/StockNeedInspection.jsx",
+      "source_sha256": "c54d81c72a18b8593f32ee55e70f46600d175a3475f8456e0f7cec22856a5261"
+    },
+    {
+      "source": "frontend/src/features/predictive/evidenceExperiences.css",
+      "destination": "src/features/predictive/evidenceExperiences.css",
+      "source_sha256": "603ace7770967c5eb7f4287f8c6f979c3943d5bc47d209d38c778a5df2078a9b"
+    },
+    {
+      "source": "frontend/src/features/predictive/localApi.js",
+      "destination": "src/features/predictive/localApi.js",
+      "source_sha256": "a8268f1bf57701d59061530d9ac40da54487da02da00629e3a9a7744d8ee9c9f"
+    },
+    {
+      "source": "frontend/src/features/predictive/ReviewQueue.jsx",
+      "destination": "src/features/predictive/ReviewQueue.jsx",
+      "source_sha256": "3f19cd637d084e22d6c99b240824f173763f636d0855e71a68deb96b44b68b7d"
+    },
+    {
+      "source": "frontend/src/features/predictive/reviewQueue.css",
+      "destination": "src/features/predictive/reviewQueue.css",
+      "source_sha256": "7a7fc8c7fff064a5276c3b8101dd74bd1075e3784af6ac8bc8b4d8ee37f172bf"
+    },
+    {
+      "source": "frontend/src/features/predictive/EvidenceExperiences.jsx",
+      "destination": "src/features/predictive/EvidenceExperiences.jsx",
+      "source_sha256": "311487e1fbcbbb1a1e6859198beea5930c18beea4d0643700e7f43a7691d05ba"
+    },
+    {
+      "source": "frontend/src/features/predictive/localApi.test.js",
+      "destination": "src/features/predictive/localApi.test.js",
+      "source_sha256": "72535cd7d5142e12ac3832144ba71488be9d2af020f4f36a763a41424b6be686"
+    },
+    {
+      "source": "frontend/src/features/predictive/PlanningFridge.jsx",
+      "destination": "src/features/predictive/PlanningFridge.jsx",
+      "source_sha256": "828498aa63bc2091d8c2e1bf01f3c3a5e5f14065fe74f62738a51fe8deb0c663"
+    },
+    {
+      "source": "frontend/src/features/predictive/replayEvidence.test.js",
+      "destination": "src/features/predictive/replayEvidence.test.js",
+      "source_sha256": "8aeff75dd8d1956533f4e2f35d44a6389173a63bf19fafeab034d5230d47f773"
+    },
+    {
+      "source": "frontend/src/features/predictive/DecisionRehearsal.jsx",
+      "destination": "src/features/predictive/DecisionRehearsal.jsx",
+      "source_sha256": "949eb9fa639e3b15a1930f8ef2460ccba6ba531c09fd46e018e8d7e91e968072"
+    },
+    {
+      "source": "frontend/src/contexts/AuthContext.js",
+      "destination": "src/contexts/AuthContext.js",
+      "source_sha256": "6bcea08918bb94b66ccd06877e2af4351b8700cab4b34c75cad87a408e03560e"
+    },
+    {
+      "source": "frontend/src/contexts/AuthProvider.jsx",
+      "destination": "src/contexts/AuthProvider.jsx",
+      "source_sha256": "602018cdb3f9969f46baf38012548a40468306a18d40e9ed95fb5ab0b196e640"
+    },
+    {
+      "source": "frontend/src/contexts/UIContext.js",
+      "destination": "src/contexts/UIContext.js",
+      "source_sha256": "62be9df1cddaebfdbfea7d1da425beb96af32bf9d371687e99b1b04b2b451757"
+    },
+    {
+      "source": "frontend/src/contexts/UIProvider.jsx",
+      "destination": "src/contexts/UIProvider.jsx",
+      "source_sha256": "20bf2c6d430626089f064eec7d54d3e2655c0f111493f9b1a91243a4e69d2329"
+    },
+    {
+      "source": "frontend/src/components/LoginModal/GroceryLogin.jsx",
+      "destination": "src/components/LoginModal/GroceryLogin.jsx",
+      "source_sha256": "608d3f637fabf3ce0bff21756e49cf86d79bd21eed809d3bd805e5381889e0a6"
+    },
+    {
+      "source": "frontend/src/components/LoginModal/GroceryLogin.css",
+      "destination": "src/components/LoginModal/GroceryLogin.css",
+      "source_sha256": "43354f8782da0b5f2f2ce7190fb1a8a203919e012d2c74516a5cbac44f2bfd64"
+    },
+    {
+      "source": "frontend/src/components/ModalDialog.jsx",
+      "destination": "src/components/ModalDialog.jsx",
+      "source_sha256": "4dbaa3337b2e7ec2cecbb0b978eceb64af1b208b108461e5e2ad7f3bc05c7aa7"
+    },
+    {
+      "source": "frontend/src/components/ModalDialog.css",
+      "destination": "src/components/ModalDialog.css",
+      "source_sha256": "85b2fd37318b26f1b53fb2b8b60014655a0d7004b9cd715954cbfb025a6664a1"
+    },
+    {
+      "source": "frontend/src/components/PageLoading.jsx",
+      "destination": "src/components/PageLoading.jsx",
+      "source_sha256": "522d37f5401ea5953eeee33fdfda3e9bee98d7693cd025756b1e2a64237715bb"
+    },
+    {
+      "source": "frontend/src/components/PageLoading.css",
+      "destination": "src/components/PageLoading.css",
+      "source_sha256": "d4f6800ae9f9812d1018362b45768c9f4e8a9421b40bb2f6bfc5f519c8f59f60"
+    },
+    {
+      "source": "frontend/src/hoc/RequireAuth.jsx",
+      "destination": "src/hoc/RequireAuth.jsx",
+      "source_sha256": "e7a8cece5f7dc6129bd91c584eed3a0a1e5e31ab9c95722dd29029544bc3c066"
+    },
+    {
+      "source": "frontend/src/utils/apiError.js",
+      "destination": "src/utils/apiError.js",
+      "source_sha256": "5a112223f166e8be1f73f3c147a48e5a55589e14acd199d6cc6a5fbd103ea04d"
+    },
+    {
+      "source": "frontend/src/utils/apiError.test.js",
+      "destination": "src/utils/apiError.test.js",
+      "source_sha256": "e55342bd1f96f786fc6bd8ad1cfb58f6e93b158e5b50489aba3abf9467f00eb7"
+    },
+    {
+      "source": "frontend/src/utils/cookieUtils.jsx",
+      "destination": "src/utils/cookieUtils.jsx",
+      "source_sha256": "92d8d295a0737cc57223c06f221cedf1924fa522606567fefcdf8a21fc1c4897"
+    },
+    {
+      "source": "frontend/package-lock.json",
+      "destination": "package-lock.json",
+      "source_sha256": "7ce70aba93d98a758de9b3ac1f17b4353cb49931f1d77ee3ce2b961e0cc31a83"
+    },
+    {
+      "source": "frontend/eslint.config.js",
+      "destination": "eslint.config.js",
+      "source_sha256": "0197d9a843aaae267303c4d1ab1a43afad1afacc7646cdf6cf94a5af6b815fb8"
+    },
+    {
+      "source": "docs/predictive-api-contract.md",
+      "destination": "docs/predictive-api-contract.md",
+      "source_sha256": "fb10bed0751c6194a2fce67bf2dd431df7b98d66eca99619b1f925a5c2444fcd"
+    }
+  ]
+}
